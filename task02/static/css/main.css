@@ -1,0 +1,28 @@
+.container {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+
+    font-family: sans-serif;
+}
+
+.header {
+    color: #CC0000;
+    font-weight: bold;
+}
+
+.menu-item {
+    display: block;
+    text-align: center;
+}
+
+.hidden-menu-item {
+    display: none;
+}
+
+.signup-form {
+    display: block;
+}
